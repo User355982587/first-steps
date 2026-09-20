@@ -27,7 +27,7 @@ letter-spacing: 1;}
    .list{
     list-style-type:none;
     float:right;
-    margin-top: -25px;
+    /* margin-top: -25px; */
    }
   .list li{
     display: inline-block;
