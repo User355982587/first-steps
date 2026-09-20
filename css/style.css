@@ -6,7 +6,7 @@ body{
     background-color:#f8f8ee;
     width: 100%;
     height: auto;
-    font-family:cursive ;
+    /* font-family:cursive ; */
     line-height: 1,7;
 }
 
@@ -27,7 +27,7 @@ letter-spacing: 1;}
    .list{
     list-style-type:none;
     float:right;
-    /* margin-top: -25px; */
+    margin-top: 5px;
    }
   .list li{
     display: inline-block;
