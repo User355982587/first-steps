@@ -217,29 +217,26 @@ z-index: 99;
 padding: 20Px;
 text-align: center;
 }
-.main3 div:hover {
+.main3 div:hover{
     background-color: rgb(22, 49, 187);
     opacity: 0.7;}
+
 .div7{
-    background: url(../images/imga.jpg)  center/ cover no-repeat;
-}.div8{
-     background: url(../images/imgb.jpg)  center/ cover no-repeat;
-}
-.div9{ background: url(../images/imgc.jpg)  center/ cover no-repeat;  
-}
-.div10{
-    background: url(../images/imgl.jpg)  center/ cover no-repeat;
-}
-.div11{
-    background: url(../images/imge.jpg)   center/cover no-repeat ; 
-}
-.div12{background: url(../images/imgd.jpg)  center/ cover no-repeat ;
-}
-.main3 p {
- 
-    color: rgba(243, 240, 243, 0.926);
-    display: none;
- }
+    background: url(../images/imga.jpg)  center/ cover no-repeat;}
+.div8{
+     background: url(../images/imgb.jpg)  center/ cover no-repeat;}
+
+.div9{ background: url(../images/imgc.jpg)  center/ cover no-repeat;}
+
+.div10{background: url(../images/imgl.jpg)  center/ cover no-repeat;}
+
+.div11{ background: url(../images/imge.jpg)   center/cover no-repeat ;}
+
+.div12{background: url(../images/imgd.jpg)  center/ cover no-repeat ;}
+
+.main3 p {color: rgba(243, 240, 243, 0.926);
+          display: none;}
+
 .main3 i{
     text-align: center;
     margin-top: 6%;
